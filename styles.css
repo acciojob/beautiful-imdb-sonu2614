@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+img{
+	height:500px;
+	width:500px;
+}
+
+p{
+	position:static;
+	top:5px;
+	width:100%;
+	text-align:center;
+	font-size:70px;;
+}
